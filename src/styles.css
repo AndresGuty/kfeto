@@ -1,10 +1,8 @@
-
-/* * {
+body {
   margin: 0;
   padding: 0;
-  border: 0;
-  outline: 0;
-  font-size: 100%;
-  vertical-align: baseline;
-} */
-
+  background: url('./assets/images/back-login-3.png') no-repeat center top;
+  background-size: cover;
+  font-family: sans-serif;
+  height: 100vh;
+}
